@@ -1,17 +1,1 @@
-﻿cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
-  stdafx.cpp
-cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
-  AssemblyInfo.cpp
-AssemblyInfo.cpp(40): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': marked as obsolete
-  AssemblyInfo.cpp(40): note: Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
-  Last_Form.cpp
-  OneWay_Group.cpp
-  OneWay_Single.cpp
-  Payment_Type.cpp
-  Pro_ject.cpp
-  RoundTrip_Group.cpp
-  RoundTrip_Single.cpp
-  Generating Code...
-cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
-  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
-LINK : fatal error LNK1207: incompatible PDB format in 'E:\BFCI\level 2_1st term\The Summer Training\Pro_ject\Debug\Pro_ject.pdb'; delete and rebuild
+﻿LINK : fatal error LNK1207: incompatible PDB format in 'C:\Users\tasne\OneDrive\?????????\GitHub\SummerT_1\Debug\Pro_ject.pdb'; delete and rebuild
